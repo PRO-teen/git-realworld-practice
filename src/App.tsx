@@ -1,10 +1,12 @@
-// import React from 'react';
+// import "./App.css";
 
-const App = () => {
+import Hero from "./components/Hero";
+
+function App() {
   return (
-    <div>
-      app
-    </div>
+    <>
+      <Hero />
+    </>
   );
 }
 
