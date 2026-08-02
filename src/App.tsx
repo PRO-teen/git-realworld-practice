@@ -5,7 +5,6 @@ import About from "./components/About";
 import Contact from './components/Contact';
 
 
-
 function App() {
   return (
     <>
@@ -13,7 +12,6 @@ function App() {
       <Hero />
       <About/>
       <Contact/>
-
     </>
   );
 }
